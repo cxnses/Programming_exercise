@@ -5,9 +5,6 @@
 
   <h3 align="center">Programming exercise</h3>
   
-  <p align="center">
-    <img src="https://img.shields.io/badge/Express.js-4.18.1-black" />
-  </p>
 </div>
 
 ## About this project
