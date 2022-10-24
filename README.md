@@ -13,7 +13,7 @@ This project is thaught to look for a directory, identify excel files and consol
 ## Built with
 This console app was built with Python310
 
-#Prequisites
+##Prequisites
 - Python version 310
 - PyCharm Community Edition 2022.2.1
 - Environment used: Virtualenv
